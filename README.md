@@ -1,7 +1,6 @@
 # Atari Tempest
 
-Implémentation du jeu Atari Tempest en C++ moderne avec la SDL2 comme libraire graphique.
-Cette version n'est disponible que sur Linux.
+Implémentation du jeu Atari Tempest en C++ moderne avec la librairie graphique SDL2. Cette version n'est disponible que sur Linux.
 
 
 ## Compilation du projet
